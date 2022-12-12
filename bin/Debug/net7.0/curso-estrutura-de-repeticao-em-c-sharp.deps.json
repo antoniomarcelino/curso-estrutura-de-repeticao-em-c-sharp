@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "curso-estrutura-de-repeticao-em-c-sharp/1.0.0": {
+        "runtime": {
+          "curso-estrutura-de-repeticao-em-c-sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "curso-estrutura-de-repeticao-em-c-sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

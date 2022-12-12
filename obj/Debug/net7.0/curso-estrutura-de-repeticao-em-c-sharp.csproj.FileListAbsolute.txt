@@ -1,0 +1,15 @@
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\bin\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.exe
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\bin\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.deps.json
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\bin\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.runtimeconfig.json
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\bin\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.dll
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\bin\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.pdb
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\obj\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.csproj.AssemblyReference.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\obj\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\obj\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.AssemblyInfoInputs.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\obj\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.AssemblyInfo.cs
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\obj\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\obj\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.dll
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\obj\Debug\net7.0\refint\curso-estrutura-de-repeticao-em-c-sharp.dll
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\obj\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.pdb
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\obj\Debug\net7.0\curso-estrutura-de-repeticao-em-c-sharp.genruntimeconfig.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-estrutura-de-repeticao-em-c-sharp\obj\Debug\net7.0\ref\curso-estrutura-de-repeticao-em-c-sharp.dll
