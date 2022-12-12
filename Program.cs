@@ -1,6 +1,7 @@
 ﻿string opcao;
+bool exibirMenu = true;
 
-while(true)
+while(exibirMenu)
 {
     Console.Clear();
     Console.WriteLine("Digite a sua opcao:");
@@ -8,29 +9,32 @@ while(true)
     Console.WriteLine("2 - Buscar cliente");
     Console.WriteLine("3 - Apagar cliente");
     Console.WriteLine("4 - Encerrar");
-
+    
     opcao = Console.ReadLine();
-
+    
     switch(opcao)
     {
         case "1":
             Console.WriteLine("Cadastro de cliente");
             break;
-        case "2":
-            Console.WriteLine("Busca de cliente");
+    case "2":
+            Console.WriteLine("Bu de cliente");
             break;
-        case "3":
+    case "3":
             Console.WriteLine("Apagar cliente");
             break;
-        case "4":
+    case "4":
             Console.WriteLine("Encerrar");
-            Environment.Exit(0);
+            exibirMenu = false;
             break;
-        default:
+    default:
             Console.WriteLine("Opcao errada");
             break;
     }
 }
+
+Console.WriteLine("O programa se encerrou");
+
 
 
 /*
